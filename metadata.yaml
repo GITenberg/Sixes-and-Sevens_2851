@@ -1,0 +1,35 @@
+_repo: Sixes-and-Sevens_2851
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Henry, O.
+    alias: Porter, William Sidney
+    birthdate: 1862
+    deathdate: 1910
+    gutenberg_agent_id: '634'
+    url: http://www.gutenberg.org/2009/agents/634
+    wikipedia: http://en.wikipedia.org/wiki/O._Henry
+description: ''
+gutenberg_issued: '2001-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2851'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, American'
+- !lcsh 'American fiction -- 20th century'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: The last of the troubadours -- The sleuths -- Witches' loaves --
+  The pride of the cities -- Holding up a train -- Ulysses and the dogman -- The champion
+  of the weather -- Makes the whole world kin -- At arms with Morpheus -- the ghost
+  of a chance -- Jimmie Hayes and Muriel -- The door of unrest -- The duplicity of
+  Hargraves -- Let me feel your pulse -- October and June -- The church with an overshot
+  wheel -- New York by campfire light -- The adventures of Shamrock Jolnes -- The
+  lady higher up -- The greater Coney -- Law and order -- Transformation of Martin
+  Burney -- The caliph and the cad -- The diamond of Kali -- The day we celebrate.
+title: Sixes and Sevens
+url: http://www.gutenberg.org/ebooks/2851
